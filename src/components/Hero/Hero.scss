@@ -1,0 +1,25 @@
+.hero{
+    display: flex;
+    flex-direction: row;
+}
+
+.heroHeader{
+    font-size: 16px;
+}
+
+.heroText{
+    font-size: 36px;
+}
+
+.heroText2{
+    font-size:32px;
+    flex-wrap: wrap;
+}
+
+.leftPanel{
+    flex:1;
+}
+
+.rightPanel{
+    flex:3;
+}

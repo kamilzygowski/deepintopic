@@ -1,0 +1,33 @@
+@import '../../styles/colors';
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 196px;
+    background: $background;
+    color:#fff;
+    
+}
+
+.navLinks{
+    width:40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-size:28px;
+    color:#fff;
+    margin: auto 0;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.logo{
+    width:340px;
+    position: absolute;
+    left:85px;
+    top:0;
+}
