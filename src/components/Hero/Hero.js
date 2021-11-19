@@ -7,11 +7,11 @@ class Hero extends React.Component {
         return (
             <section className="hero" id="/hero">
                 <div className="leftPanel">
-               <h1 className="heroHeader"> LATEST ON THE BLOG </h1>
-               <p className="heroText"> still nothing :O</p>
+               <h1 className="heroHeader"> Pogadajmy i pospekulujmy o głupotach</h1>
+               {/*<p className="heroText"> still nothing :O</p>*/}
                </div>
                <div className="rightPanel">
-                   <p className="heroText2"> if there will be latest article, there will be a text :s</p>
+                   <p className="heroText2"> ZAPRASZAM DO CZYTANIA</p>
                </div>
             </section>
 
