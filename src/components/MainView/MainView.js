@@ -9,7 +9,8 @@ function MainView () {
         return (
             <section className="mainview" id="/mainview">   
                 <h2 className="mainviewTitle"> {article.title} </h2> 
-                <p className="articleText"> {article.text}</p>
+                <p className="articleText"> {article.text}</p>       
+                <p className="articleText"> {article.text2}</p>
             </section>
         );
     }

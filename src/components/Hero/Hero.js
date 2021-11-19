@@ -11,7 +11,8 @@ class Hero extends React.Component {
                {/*<p className="heroText"> still nothing :O</p>*/}
                </div>
                <div className="rightPanel">
-                   <p className="heroText2"> ZAPRASZAM DO CZYTANIA</p>
+                   {/*<p className="heroText2"> ZAPRASZAM DO CZYTANIA</p>*/}
+                   <br/>
                </div>
             </section>
 

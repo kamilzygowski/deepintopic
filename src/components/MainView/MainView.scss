@@ -1,16 +1,19 @@
 .mainview{
     border:2px solid #fff;
-    width:70%;
+    width:65%;
     position:absolute;
-    right:35px;
+    right:85px;
     min-height: 450px;
     border-radius: 10px;
+    background:#130f40;
 }
 
 .articleText{
-    font-size:28px;
+    font-size:32px;
+    padding:40px;
 }
 
 .mainviewTitle{
     font-size:46px;
+    padding:40px;
 }
