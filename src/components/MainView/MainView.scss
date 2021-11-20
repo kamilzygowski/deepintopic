@@ -2,7 +2,7 @@
     border:2px solid #fff;
     width:65%;
     position:absolute;
-    right:85px;
+    right:135px;
     min-height: 450px;
     border-radius: 10px;
     background:#130f40;
@@ -11,9 +11,17 @@
 .articleText{
     font-size:32px;
     padding:40px;
+    color:#dff9fb;
 }
 
 .mainviewTitle{
     font-size:46px;
     padding:40px;
+    color:#D6A2E8;
+    border-bottom:3px solid #686de0;
+    width:80%;
+    margin:auto auto;
+    margin-bottom: 35px;
 }
+
+.arrows{}

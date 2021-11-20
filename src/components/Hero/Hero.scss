@@ -1,10 +1,13 @@
 .hero{
     display: flex;
     flex-direction: row;
+    margin-bottom: 50px;
 }
 
 .heroHeader{
     font-size: 22px;
+    position: absolute;
+    left:70px;
 }
 
 .heroText{
