@@ -6,14 +6,14 @@ import {Link} from 'react-router-dom';
 class NavBar extends React.Component {
     render() {
         const navStyle = {
-            color:'#FEA47F',
+            color:'#d1ccc0',
             textDecoration:'none',
            
         };
         return (
             <nav className="navbar" id="/navbar">   
             <Link to="/" style={navStyle}> 
-               <img src="https://i.postimg.cc/wjY0ddQF/dit-logo.png" alt="logo" className="logo"/>
+               <img src="https://i.postimg.cc/bJBQG6Dy/dit-logo2.png" alt="logo" className="logo"/>
                </Link>
                <ul className="navLinks">
                <Link to="/" style={navStyle}>

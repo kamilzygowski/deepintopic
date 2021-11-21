@@ -9,10 +9,10 @@ function MainView () {
         return (
             <section className="mainview" id="/mainview">   
                 <h2 className="mainviewTitle"> {article.title} </h2> 
-                <img className="arrows" src="https://i.postimg.cc/xTKZwhZD/Untitled31.png"/>
+                <img className="arrows" src="https://i.postimg.cc/xjXZ6hPP/Untitled31.png"/>
                 <p className="articleText"> {article.text}</p>       
                 <p className="articleText"> {article.text2}</p>
-                <img className="arrows" src="https://i.postimg.cc/xTKZwhZD/Untitled31.png"/>
+                <img className="arrows" src="https://i.postimg.cc/xjXZ6hPP/Untitled31.png"/>
             </section>
         );
     }
