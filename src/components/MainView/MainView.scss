@@ -1,13 +1,13 @@
 @import '../../styles/colors';
 
 .mainview{
-    border:1px solid rbga(0,0,0,1);
     width:65%;
     position:absolute;
     right:135px;
     min-height: 450px;
     border-radius: 10px;
     background:$articleBackground;
+    
 }
 
 .articleText{
@@ -27,4 +27,17 @@
     margin-bottom: 35px;
 }
 
-.arrows{}
+.arrows{
+    margin: auto auto;
+}
+
+.inner-border {
+	border: 5px solid #DE9B72;
+   	height: 99%;
+    width: 98%;
+    padding: 11px;
+    margin: auto auto;
+    border-radius: 10px;
+    background:$articleBackground;
+}
+
