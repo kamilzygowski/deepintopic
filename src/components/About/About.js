@@ -5,7 +5,7 @@ import './About.scss';
 class About extends React.Component {
     render() {
         return (
-            <section className="about" id="/about">
+            <section className="about" id="deepintopic/about">
                <h1 className="aboutHeader"> Siemka </h1>
                <p className="aboutText"> Witam Cię na czymś w rodzaju bloga z przymrużeniem oka. Tak naprawdę jest to jak to lubię nazywać: śmietnik na moje myśli, rady i coś w rodzaju dziennika.</p>
                <div className="aboutBox">

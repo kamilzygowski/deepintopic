@@ -9,7 +9,7 @@ function Dictionary () {
     <li className="dictionaryDef" key={id}><span className="title">{title}</span> - {text}</li>
     );
         return (
-            <section className="dictionary" id="/dictionary">
+            <section className="dictionary" id="deepintopic/dictionary">
                 <h1 className="dictionaryHeader">Słowniczek dla skrótów myślowych i niecodziennych wyrażeń</h1>
                 <ul> {listItem} </ul>
             </section>

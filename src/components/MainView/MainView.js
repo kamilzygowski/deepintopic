@@ -7,7 +7,7 @@ function MainView () {
 
         const article = useSelector(state => state.articleReducer);
         return (
-            <section className="mainview" id="/mainview">  
+            <section className="mainview" id="deepintopic/mainview">  
             
             <div className="inner-border">
             <img class="vertical-decoration top" src="https://i.ibb.co/JRTK9z4/horizontally-centered-vertical-decoration.png"></img> 
