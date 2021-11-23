@@ -15,10 +15,10 @@ function App() {
     <div className="App">
       <NavBar />
       <Switch>
-      <Route path="/" exact component={Home} />
-      <Route path="/about" exact component={About}/>
-      <Route path="/dictionary" exact component={Dictionary}/>
-      <Route path="/contact" exact component={Contact}/>
+      <Route path="/deepintopic/" exact component={Home} />
+      <Route path="/deepintopic/about" exact component={About}/>
+      <Route path="/deepintopic/dictionary" exact component={Dictionary}/>
+      <Route path="/deepintopic/contact" exact component={Contact}/>
       </Switch>
     </div>
     </Router>
