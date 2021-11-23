@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/deepintopic/static/css/main.f249d2f9.chunk.css",
-    "main.js": "/deepintopic/static/js/main.a0571600.chunk.js",
-    "main.js.map": "/deepintopic/static/js/main.a0571600.chunk.js.map",
-    "runtime-main.js": "/deepintopic/static/js/runtime-main.27be4144.js",
-    "runtime-main.js.map": "/deepintopic/static/js/runtime-main.27be4144.js.map",
-    "static/js/2.d6aa14e7.chunk.js": "/deepintopic/static/js/2.d6aa14e7.chunk.js",
-    "static/js/2.d6aa14e7.chunk.js.map": "/deepintopic/static/js/2.d6aa14e7.chunk.js.map",
-    "static/js/3.e4ff0789.chunk.js": "/deepintopic/static/js/3.e4ff0789.chunk.js",
-    "static/js/3.e4ff0789.chunk.js.map": "/deepintopic/static/js/3.e4ff0789.chunk.js.map",
-    "index.html": "/deepintopic/index.html",
-    "static/css/main.f249d2f9.chunk.css.map": "/deepintopic/static/css/main.f249d2f9.chunk.css.map",
-    "static/js/2.d6aa14e7.chunk.js.LICENSE.txt": "/deepintopic/static/js/2.d6aa14e7.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.f249d2f9.chunk.css",
+    "main.js": "/static/js/main.a0571600.chunk.js",
+    "main.js.map": "/static/js/main.a0571600.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6bb54e59.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6bb54e59.js.map",
+    "static/js/2.d6aa14e7.chunk.js": "/static/js/2.d6aa14e7.chunk.js",
+    "static/js/2.d6aa14e7.chunk.js.map": "/static/js/2.d6aa14e7.chunk.js.map",
+    "static/js/3.e4ff0789.chunk.js": "/static/js/3.e4ff0789.chunk.js",
+    "static/js/3.e4ff0789.chunk.js.map": "/static/js/3.e4ff0789.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f249d2f9.chunk.css.map": "/static/css/main.f249d2f9.chunk.css.map",
+    "static/js/2.d6aa14e7.chunk.js.LICENSE.txt": "/static/js/2.d6aa14e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27be4144.js",
+    "static/js/runtime-main.6bb54e59.js",
     "static/js/2.d6aa14e7.chunk.js",
     "static/css/main.f249d2f9.chunk.css",
     "static/js/main.a0571600.chunk.js"
