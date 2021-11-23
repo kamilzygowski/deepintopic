@@ -1,0 +1,37 @@
+.about{
+    width: 80%;
+    height:80%;
+    border-radius: 10px;
+    
+    padding:50px;
+    margin: auto auto;
+}
+
+.aboutHeader{
+    font-size: 42px;
+}
+
+.aboutText{
+    font-size:32px;
+    flex:2;
+    margin: auto auto;
+}
+
+.aboutBox{
+    flex-direction: column;
+    display: flex;
+    margin-top: 55px;
+}
+
+.aboutMinibox{
+    flex-direction: row;
+    display: flex;
+}
+
+.aboutImage{
+    flex:1;
+    width: 256px;
+    height: 456px;
+    object-fit: cover;
+    border-radius: 25px;
+}

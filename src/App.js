@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import NavBar from './components/NavBar/NavBar';
 import About from './components/About/About';
 import Home from './components/Home/Home';
+import Dictionary from './components/Dictionary/Dictionary';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Switch>
       <Route path="/" exact component={Home} />
       <Route path="/about" exact component={About}/>
+      <Route path="/dictionary" exact component={Dictionary}/>
       </Switch>
     </div>
     </Router>
