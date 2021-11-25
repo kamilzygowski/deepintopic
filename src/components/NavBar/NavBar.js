@@ -12,23 +12,23 @@ class NavBar extends React.Component {
         };
         return (
             <nav className="navbar" id="/navbar">   
-            <Link to="deepintopic/" style={navStyle}> 
+            <Link to="/" style={navStyle}> 
                <img src="https://i.postimg.cc/bJBQG6Dy/dit-logo2.png" alt="logo" className="logo"/>
                </Link>
                <ul className="navLinks">
-               <Link to="deepintopic/" style={navStyle}>
+               <Link to="/" style={navStyle}>
                    <li className="link"> Home </li>
                    </Link>
-                   <Link to="deepintopic/about" style={navStyle}>
+                   <Link to="/about" style={navStyle}>
                    <li className="link"> About </li>
                    </Link>
-                   <Link to="deepintopic/articles" style={navStyle}>
+                   <Link to="/articles" style={navStyle}>
                    <li className="link"> Articles </li>
                    </Link>
-                   <Link to="deepintopic/contact" style={navStyle}>
+                   <Link to="/contact" style={navStyle}>
                    <li className="link"> Contact </li>
                    </Link>
-                   <Link to="deepintopic/dictionary" style={navStyle}>
+                   <Link to="/dictionary" style={navStyle}>
                    <li className="link"> Dictionary </li>
                    </Link>
                </ul>

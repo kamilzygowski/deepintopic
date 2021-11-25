@@ -5,6 +5,8 @@
     
     padding:50px;
     margin: auto auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .aboutHeader{
@@ -26,12 +28,35 @@
 .aboutMinibox{
     flex-direction: row;
     display: flex;
+    border-radius: 25px;
+    margin: 5px 0;
+    color:#fbc531;
+}
+
+.aboutMinibox:nth-child(1){
+    background-color: rgba(148, 151, 212, 0.1); 
+}
+
+.aboutMinibox:nth-child(2){
+    background-color: rgba(200, 235, 87, 0.1); 
+}
+
+.aboutMinibox:nth-child(3){
+    background-color: rgba(220, 108, 212, 0.1); 
 }
 
 .aboutImage{
     flex:1;
-    width: 256px;
-    height: 456px;
+    width: 156px;
+    height: 256px;
     object-fit: cover;
     border-radius: 25px;
+}
+
+.aboutLeftPanel{
+    flex:1;
+}
+
+.aboutRightPanel{
+    flex:3;
 }
