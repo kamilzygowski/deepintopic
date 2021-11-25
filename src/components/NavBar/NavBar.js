@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom';
 class NavBar extends React.Component {
     render() {
         const navStyle = {
-            color:'#d1ccc0',
+            color:'#25CCF7',
             textDecoration:'none',
            
         };

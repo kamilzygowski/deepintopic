@@ -6,3 +6,13 @@
     padding: auto auto;
     font-size: 56px;
 }
+
+.contactLink{
+    text-decoration: none;
+    color:#F8EFBA;
+
+    &:hover{
+        font-size: 78px;
+        transition: 0.11s step-end;
+    }
+}
