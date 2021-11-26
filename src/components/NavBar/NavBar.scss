@@ -8,7 +8,10 @@ nav{
     background: $background;
     color:#fff;
     
-    
+    @media (min-width: 568px) and (max-width: 848px) {
+        display: flex;
+        flex-direction: row;
+    } 
 }
 
 .navLinks{
@@ -20,11 +23,29 @@ nav{
     font-size:34px;
     color:#fff;
     margin: auto 0;
+    margin-left: 255px;
+
+    @media (min-width: 268px) and (max-width: 568px) {
+        display: none;
+    }  
+
+    @media (min-width: 568px) and (max-width: 848px) {
+        display: none;
+    } 
 }
 
 .link{
     text-decoration: none;
-    box-shadow: 0 1px #25CCF7;
+    
+    
+
+    @media (min-width: 268px) and (max-width: 568px) {
+        display: none;
+    }  
+
+    @media (min-width: 568px) and (max-width: 848px) {
+        
+    } 
 }
 
 .link:hover{
@@ -38,4 +59,15 @@ nav{
     position: absolute;
     left:85px;
     top:0;
+
+    @media (min-width: 268px) and (max-width: 568px) {
+        margin: auto auto;
+        left:0;
+        width:315px;
+    }  
+
+    @media (min-width: 568px) and (max-width: 848px) {
+        margin: auto auto;
+        width:370px;
+    } 
 }

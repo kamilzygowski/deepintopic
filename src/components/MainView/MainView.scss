@@ -3,11 +3,19 @@
 .mainview{
     width:65%;
     position:absolute;
-    right:135px;
+    right:95px;
     min-height: 450px;
     border-radius: 10px;
     background:$articleBackground;
-    
+
+    @media (max-width: 1168px) {
+        width:100%;
+        right:0;
+    }  
+
+    @media (min-width: 968px) and (max-width: 1448px) {
+        right:55px;
+    } 
 }
 
 .articleText{
@@ -15,6 +23,15 @@
     padding:40px;
     padding-inline: 125px;
     color:$articleColor;
+
+    @media (min-width: 268px) and (max-width: 568px) {
+        font-size:18px;
+        padding:15px;
+    }  
+
+    @media (min-width: 968px) and (max-width: 1448px) {
+        
+    } 
 }
 
 .mainviewTitle{
@@ -25,6 +42,17 @@
     width:80%;
     margin:auto auto;
     margin-bottom: 35px;
+
+    @media (min-width: 268px) and (max-width: 568px) {
+        font-size:24px;
+        margin:auto auto;
+        margin-bottom: 35px;
+        padding:15px;
+    }  
+
+    @media (min-width: 968px) and (max-width: 1448px) {
+        
+    } 
 }
 
 .arrows{
@@ -39,5 +67,17 @@
     margin: auto auto;
     border-radius: 10px;
     background:$articleBackground;
+}
+
+.vertical-decoration {
+
+    @media (max-width: 1168px) {
+        width:100%;
+        
+    }  
+
+    @media (min-width: 968px) and (max-width: 1448px) {
+        width:100%;
+    } 
 }
 

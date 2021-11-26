@@ -10,7 +10,7 @@ function MainView () {
             <section className="mainview" id="deepintopic/mainview">  
             
             <div className="inner-border">
-            <img class="vertical-decoration top" src="https://i.ibb.co/JRTK9z4/horizontally-centered-vertical-decoration.png"></img> 
+            <img className="vertical-decoration top" src="https://i.ibb.co/JRTK9z4/horizontally-centered-vertical-decoration.png"></img> 
 
                 <h2 className="mainviewTitle"> {article.title} </h2> 
                 <img className="arrows" src="https://i.postimg.cc/xjXZ6hPP/Untitled31.png"/>
@@ -19,7 +19,7 @@ function MainView () {
                 <img className="arrows" src="https://i.postimg.cc/xjXZ6hPP/Untitled31.png"/>
                 <br/>
                 <br/>
-                <img class="vertical-decoration bottom" src="https://i.ibb.co/JRTK9z4/horizontally-centered-vertical-decoration.png"></img>
+                <img className="vertical-decoration bottom" src="https://i.ibb.co/JRTK9z4/horizontally-centered-vertical-decoration.png"></img>
                 </div>
                 
             </section>
