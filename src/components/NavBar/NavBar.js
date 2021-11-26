@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './NavBar.scss';
 import {Link} from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -10,7 +10,6 @@ const NavBar = ({toggle}) => {
         color:'#25CCF7',
         textDecoration:'none',
     };
-
 
         return(
             <nav className="navbar" id="/navbar">   

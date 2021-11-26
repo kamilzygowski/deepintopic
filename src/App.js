@@ -9,12 +9,22 @@ import Home from './components/Home/Home';
 import Dictionary from './components/Dictionary/Dictionary';
 import Contact from './components/Contact/Contact';
 import Articles from './components/Articles/Articles';
+import {useState} from 'react';
+import MobileMenu from './components/MobileMenu/MobileMenu';
 
 function App() {
+  
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggle = () => {
+      setIsOpen(!isOpen)
+  };
+
   return (
     <Router>
     <div className="App">
-      <NavBar />
+      <MobileMenu isOpen={isOpen} toggle={toggle}/>
+      <NavBar toggle={toggle}/>
       <Switch>
       <Route path="/" exact component={Home} />
       <Route path="/about" exact component={About}/>
