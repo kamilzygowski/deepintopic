@@ -2,6 +2,15 @@
     display: flex;
     flex-direction: row;
     margin-bottom: 50px;
+
+    @media (min-width: 268px) and (max-width: 568px) {
+        display: none;
+    }  
+
+    @media (min-width: 568px) and (max-width: 848px) {
+        font-size: 36px;
+        display: none;
+    } 
 }
 
 .heroHeader{

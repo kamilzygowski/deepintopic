@@ -1,16 +1,18 @@
 import React from 'react';
 import './NavBar.scss';
 import {Link} from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {FaBars} from 'react-icons/fa';
 
 
-class NavBar extends React.Component {
-    render() {
-        const navStyle = {
-            color:'#25CCF7',
-            textDecoration:'none',
-           
-        };
-        return (
+const NavBar = ({toggle}) => {
+    const navStyle = {
+        color:'#25CCF7',
+        textDecoration:'none',
+    };
+
+
+        return(
             <nav className="navbar" id="/navbar">   
             <Link to="/" style={navStyle}> 
                <img src="https://i.postimg.cc/bJBQG6Dy/dit-logo2.png" alt="logo" className="logo"/>
@@ -29,9 +31,9 @@ class NavBar extends React.Component {
                    <li className="link"> Dictionary </li>
                    </Link>
                </ul>
+               <FaBars className="faBars" onClick={toggle}/>
             </nav>
         );
-    }
 }
 
 export default NavBar;

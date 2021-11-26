@@ -7,10 +7,16 @@ nav{
     min-height: 196px;
     background: $background;
     color:#fff;
+
+    @media (min-width: 268px) and (max-width: 568px) {
+        margin-bottom: 25px;
+    }  
+
     
     @media (min-width: 568px) and (max-width: 848px) {
         display: flex;
         flex-direction: row;
+        margin-bottom: 25px;
     } 
 }
 
@@ -70,4 +76,22 @@ nav{
         margin: auto auto;
         width:370px;
     } 
+}
+
+.faBars{
+    font-size: 32px;
+    display: none;
+
+    @media screen and (max-width: 768px){
+        display: block;
+        position: absolute;
+        top:0;
+        right:0;
+        transform: translate(-100%, 60%);
+        font-size: 28px;
+        cursor: pointer;
+        color: #fff;
+        margin-top:-6px;
+        
+    }
 }
