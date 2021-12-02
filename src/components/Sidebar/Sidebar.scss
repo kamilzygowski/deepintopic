@@ -15,6 +15,7 @@
       margin-left: 0;
       height:25px;
       display: table;
+      margin:0 auto;
     }
 
     @media (max-width:749px){
@@ -25,6 +26,7 @@
       height:25px;
       display: table;
       width:160px;
+      margin:0 auto;
     }
 
 
@@ -42,7 +44,7 @@
 
     @media (min-width: 750px) and (max-width: 1168px) {
       gap:15px;
-     
+      
   } 
     
     &__profile {
@@ -143,10 +145,10 @@
     flex-direction: column;
 
     @media (max-width: 1168px) {
-      width:350px;
-      margin:auto auto;
+      width:100%;
       display: flex;
       flex-direction: row;
+      margin:0 auto;
   }
   }
 

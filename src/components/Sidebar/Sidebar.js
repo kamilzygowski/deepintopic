@@ -23,13 +23,16 @@ function Sidebar () {
                     <span className="leaderboard__value2">medium</span>
                 </article>
 
+                </div>
+
+                <div className="row">
+
+                    
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(3))}>
                     <span className="leaderboard__name">podejście metafizyczne i egzystencjalne</span>
                     <span className="leaderboard__value3">short</span>
                 </article>
-                </div>
-
-                <div className="row">
+                
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(4))}>
                     <span className="leaderboard__name">Omori PTSD/wyparcie</span>
                     <span className="leaderboard__value">long</span>
@@ -39,7 +42,7 @@ function Sidebar () {
                     <span className="leaderboard__name">aaaaaaaaaaaaaaa</span>
                     <span className="leaderboard__value">long</span>
                 </article>
-                
+
                 </div>
             </section>
         );
