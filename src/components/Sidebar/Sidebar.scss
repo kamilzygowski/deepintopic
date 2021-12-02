@@ -8,28 +8,36 @@
     border-radius: 15px;
     flex-direction: column;
 
-    @media (max-width: 1168px){
+    @media (min-width: 750px) and (max-width: 1168px) {
       position: relative;
-      width:95%;
       display: flex;
       flex-direction: column;
       margin-left: 0;
       height:25px;
       display: table;
-      
+    }
+
+    @media (max-width:749px){
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      margin-left: 0;
+      height:25px;
+      display: table;
+      width:160px;
     }
 
 
 }
 
 .leaderboard {
-    max-width: 490px;
-    width: 100%;
+    max-width: 370px;
+    width: 90%;
     border-radius: 12px;
     margin: auto auto;
    
     @media (max-width: 749px){
-      flex-basis: 150px;
+      
     }
 
     @media (min-width: 750px) and (max-width: 1168px) {
@@ -135,6 +143,8 @@
     flex-direction: column;
 
     @media (max-width: 1168px) {
+      width:350px;
+      margin:auto auto;
       display: flex;
       flex-direction: row;
   }
