@@ -23,12 +23,12 @@ function Sidebar () {
                 </article>
 
                 <article class="leaderboard__profile" onClick={() => dispatch(chooseArticle(3))}>
-                    <span className="leaderboard__name">xsxsx</span>
+                    <span className="leaderboard__name">podejście metafizyczne i egzystencjalne</span>
                     <span className="leaderboard__value3">short</span>
                 </article>
 
                 <article class="leaderboard__profile" onClick={() => dispatch(chooseArticle(4))}>
-                    <span className="leaderboard__name">ddd</span>
+                    <span className="leaderboard__name">Omori PTSD/wyparcie</span>
                     <span className="leaderboard__value">long</span>
                 </article>
             </section>

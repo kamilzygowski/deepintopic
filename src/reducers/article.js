@@ -34,14 +34,14 @@ const data = {
             id: 2
         },
         {
-            title: "Tu tez cos fajnego bedzie",
-            text: "soon bedzie artykuł :O",
+            title: "Podejście metafizyczne i egzystencjalne",
+            text: "Przede wszystkim zacznijmy trochę od tematu artykułu. Uściślam się w nim do dwóch sposbów myślenia, tak zwanych 'mindsetów', a mianowicie mindsetu metafizycznego, gdzie poczucie naszego bytu lokuje się gdzieś na poziomie - niewazne co się stanie i tak będę jednolitym bytem duchowym nawet jak umrę. Drugie podejście jest zaś 'egzystencjalnym' - gdzie bardziej kładziemy nacisk na tu i teraz, oraz na swoje wszystkie objawy somatyczne (boimy się śmierci)",
             text2:``,
             id: 3
         },
         {
-            title: "tu teez",
-            text: "soon bedzie artykuł :O",
+            title: "Omori - PTSD/wyparcie",
+            text: "Krótkie intro: Omori jest to gra, w której doświadczamy świat jako osoba (jak się wydaje na pierwszy rzut oka) z depresją czy podobnym zaburzeniem. Jako bohater mamy 2 osobowości - prawdziwą i ochronną. Cała akcja rozgrywa się na przemian w świecie prawdziwym, jak i w tak zwanym 'white spacie', które jest swego rodzaju kaftanem ochronnym na mózg, gdzie bohater konserwuje swoje myśli, pragnienia, dzieciństwo, traumy itd",
             text2:``,
             id: 4
         }

@@ -9,9 +9,11 @@
     background:$articleBackground;
 
     @media (max-width: 1168px) {
-        width:100%;
+        width:94%;
         right:0;
         margin-top: 75px;
+        position: relative;
+        margin-left: 0.5%;
     }  
 
     @media (min-width: 968px) and (max-width: 1448px) {
