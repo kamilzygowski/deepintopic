@@ -6,27 +6,20 @@
     height:100%;
     margin-left: 20px;
     border-radius: 15px;
+    flex-direction: column;
 
-    @media (max-width: 749px){
-      display: table;
+    @media (max-width: 1168px){
       position: relative;
       width:100%;
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       margin-left: 0;
       height:25px;
+      display: table;
+      
     }
 
-    @media (min-width: 750px) and (max-width: 1168px) {
-      display: table;
-      position: relative;
-      width:100%;
-      display: flex;
-      flex-direction: row;
-      margin-left: 0;
-      height:55px;
-      
-  } 
+
 }
 
 .leaderboard {
@@ -35,7 +28,14 @@
     border-radius: 12px;
     margin: auto auto;
    
-    
+    @media (max-width: 749px){
+      flex-basis: 150px;
+    }
+
+    @media (min-width: 750px) and (max-width: 1168px) {
+      gap:15px;
+     
+  } 
     
     &__profile {
       display: grid;
@@ -57,6 +57,7 @@
 
       @media (max-width: 1168px){
         padding:5px;
+        margin:5px 5px;
       }
 
       &:nth-child(1){
@@ -128,6 +129,15 @@
 
   .welcomingArticle{
     color:$sidebarColorWelcome;
+  }
+
+  .row{
+    flex-direction: column;
+
+    @media (max-width: 1168px) {
+      display: flex;
+      flex-direction: row;
+  }
   }
 
 

@@ -44,6 +44,12 @@ const data = {
             text: "Krótkie intro: Omori jest to gra, w której doświadczamy świat jako osoba (jak się wydaje na pierwszy rzut oka) z depresją czy podobnym zaburzeniem. Jako bohater mamy 2 osobowości - prawdziwą i ochronną. Cała akcja rozgrywa się na przemian w świecie prawdziwym, jak i w tak zwanym 'white spacie', które jest swego rodzaju kaftanem ochronnym na mózg, gdzie bohater konserwuje swoje myśli, pragnienia, dzieciństwo, traumy itd",
             text2:``,
             id: 4
+        },
+        {
+            tite:'new',
+            text:'',
+            text2:'',
+            id:5
         }
     ]
 }

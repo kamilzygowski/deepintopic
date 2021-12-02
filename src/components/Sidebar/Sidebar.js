@@ -7,30 +7,40 @@ function Sidebar () {
         const dispatch = useDispatch();
         return (
             <section className="sidebar" id="/sidebar"> 
-            <article class="leaderboard__profile" onClick={() => dispatch(chooseArticle(0))}>
+            <div className="row">
+            <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(0))}>
                     <span className="leaderboard__name welcomingArticle">Artykuł powitalny</span>
                     
                 </article>
 
-                <article class="leaderboard__profile" onClick={() => dispatch(chooseArticle(2))}>
+                <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(2))}>
                     <span className="leaderboard__name">ukierunkowanie myślenia tam gdzie chcemy</span>
                     <span className="leaderboard__value">long</span>
                 </article>
 
-                <article class="leaderboard__profile" onClick={() => dispatch(chooseArticle(1))} >
+                <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(1))} >
                     <span className="leaderboard__name">potęga hiperwentylacji i pozytywnego myślenia</span>
                     <span className="leaderboard__value2">medium</span>
                 </article>
 
-                <article class="leaderboard__profile" onClick={() => dispatch(chooseArticle(3))}>
+                <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(3))}>
                     <span className="leaderboard__name">podejście metafizyczne i egzystencjalne</span>
                     <span className="leaderboard__value3">short</span>
                 </article>
+                </div>
 
-                <article class="leaderboard__profile" onClick={() => dispatch(chooseArticle(4))}>
+                <div className="row">
+                <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(4))}>
                     <span className="leaderboard__name">Omori PTSD/wyparcie</span>
                     <span className="leaderboard__value">long</span>
                 </article>
+
+                <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(5))}>
+                    <span className="leaderboard__name">aaaaaaaaaaaaaaa</span>
+                    <span className="leaderboard__value">long</span>
+                </article>
+                
+                </div>
             </section>
         );
     }
