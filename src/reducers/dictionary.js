@@ -1,20 +1,7 @@
-const dictionaryReducer = (state = data.phrases) => {
+import { dictionary } from "../data/dictionary";
+
+const dictionaryReducer = (state = dictionary.phrases) => {
  return state;
 };
 
-const data = {
-    phrases: [
-        {
-            title: "mindset",
-            text: "nastawienie psychiczne",
-            id: 0
-        },
-        {
-            title: "somatyzacja",
-            text: "myślenie o swoim ciele (np. odczuwanie bólu, poczucie bycia bytem kruchym i fizycznym etc.)",
-            id: 1
-        }
-      
-    ]
-}
 export default dictionaryReducer;

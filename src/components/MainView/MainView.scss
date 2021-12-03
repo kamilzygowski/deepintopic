@@ -7,6 +7,7 @@
     min-height: 450px;
     border-radius: 10px;
     background:$articleBackground;
+    display: table;
 
     @media (max-width: 1168px) {
         width:98%;
@@ -62,6 +63,7 @@
 
 .arrows{
     margin: auto auto;
+    position: relative;
 }
 
 .inner-border {
@@ -84,5 +86,14 @@
     @media (min-width: 968px) and (max-width: 1448px) {
         width:100%;
     } 
+}
+
+.articleImg{
+    width:80%;
+    border-radius: 5px;
+    border:2px groove #000;
+    margin: auto auto;
+    margin-block:5px;
+    position: relative;
 }
 
