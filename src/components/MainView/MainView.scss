@@ -48,6 +48,7 @@
     width:80%;
     margin:auto auto;
     margin-bottom: 35px;
+    z-index: 5;
 
     @media (min-width: 268px) and (max-width: 568px) {
         font-size:24px;
@@ -67,7 +68,7 @@
 }
 
 .inner-border {
-	border: 5px solid #DE9B72;
+	border: 5px solid #fff;
    	height: 99%;
     width: 98%;
     padding: 11px;
@@ -95,5 +96,22 @@
     margin: auto auto;
     margin-block:5px;
     position: relative;
+}
+
+.articleTitleImg{
+    position: absolute;
+    z-index: 0;
+    width:316px;
+    height:216px;
+    border-radius: 85%;
+    
+    text-align: center;
+    left:10px;
+    
+    margin-top: 96px;
+}
+
+.dictionaryWord{
+    color:red;
 }
 
