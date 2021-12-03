@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/deepintopic/static/css/main.cb204b48.chunk.css",
-    "main.js": "/deepintopic/static/js/main.d1c06734.chunk.js",
-    "main.js.map": "/deepintopic/static/js/main.d1c06734.chunk.js.map",
+    "main.css": "/deepintopic/static/css/main.863743f5.chunk.css",
+    "main.js": "/deepintopic/static/js/main.06f3ddf5.chunk.js",
+    "main.js.map": "/deepintopic/static/js/main.06f3ddf5.chunk.js.map",
     "runtime-main.js": "/deepintopic/static/js/runtime-main.a3cd8a1b.js",
     "runtime-main.js.map": "/deepintopic/static/js/runtime-main.a3cd8a1b.js.map",
     "static/js/2.3a49c299.chunk.js": "/deepintopic/static/js/2.3a49c299.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e4b8b0b7.chunk.js": "/deepintopic/static/js/3.e4b8b0b7.chunk.js",
     "static/js/3.e4b8b0b7.chunk.js.map": "/deepintopic/static/js/3.e4b8b0b7.chunk.js.map",
     "index.html": "/deepintopic/index.html",
-    "static/css/main.cb204b48.chunk.css.map": "/deepintopic/static/css/main.cb204b48.chunk.css.map",
+    "static/css/main.863743f5.chunk.css.map": "/deepintopic/static/css/main.863743f5.chunk.css.map",
     "static/js/2.3a49c299.chunk.js.LICENSE.txt": "/deepintopic/static/js/2.3a49c299.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3cd8a1b.js",
     "static/js/2.3a49c299.chunk.js",
-    "static/css/main.cb204b48.chunk.css",
-    "static/js/main.d1c06734.chunk.js"
+    "static/css/main.863743f5.chunk.css",
+    "static/js/main.06f3ddf5.chunk.js"
   ]
 }
