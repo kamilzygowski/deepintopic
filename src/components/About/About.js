@@ -16,14 +16,14 @@ class About extends React.Component {
                    
                         <p className="aboutText"> Rozprawiamy tutaj o filozofii</p>
                         <img className="aboutImage" src="https://i.postimg.cc/zvKqqY6b/pexels-dominika-roseclay-1244705.jpg"></img>
-                        <p className="aboutText"> egzystencjalizm etc </p>
+                        <p className="aboutText"> wszelkiej filozofii </p>
                         
                    </div>
                    <div className="aboutMinibox">
                         
                         <p className="aboutText">  o psychologii</p>
                         <img className="aboutImage" src="https://i.postimg.cc/bNfz3dSQ/pexels-vijay-sadasivuni-3833370.jpg"></img>
-                        <p className="aboutText">  codziennej / poznawczej</p>
+                        <p className="aboutText">  klinicznej / poznawczej</p>
                    </div>
                    <div className="aboutMinibox">
                    

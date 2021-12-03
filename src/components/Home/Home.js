@@ -8,7 +8,7 @@ import NavBar from '../NavBar/NavBar';
 function Home() {
 
   return (
-    <div className="Home" id="deepintopic/">
+    <div className="Home" id="/">
       <Hero/>
       <Sidebar/>
       <MainView/>

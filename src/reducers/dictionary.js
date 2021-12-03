@@ -11,7 +11,7 @@ const data = {
         },
         {
             title: "somatyzacja",
-            text: "myślenie o swoim ciele (np. odczuwanie bólu, poczucie bycia bytem fizycznym etc.)",
+            text: "myślenie o swoim ciele (np. odczuwanie bólu, poczucie bycia bytem kruchym i fizycznym etc.)",
             id: 1
         }
       
