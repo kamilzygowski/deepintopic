@@ -1,12 +1,12 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import './Dictionary.scss';
-
+import {FaCircle} from 'react-icons/fa';
 
 function Dictionary () {
     const dictionary = useSelector( state => state.dictionaryReducer);
     const listItem = dictionary.map(({title, text, id}) => 
-    <li className="dictionaryDef" key={id}><span className="title">{title}</span> - {text}</li>
+    <li className="dictionaryDef" key={id}><FaCircle className="circle" /><span className="title">{title}</span> - {text}</li>
     );
         return (
             <section className="dictionary" id="deepintopic/dictionary">

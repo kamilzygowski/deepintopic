@@ -14,13 +14,13 @@ function Sidebar () {
                 </article>
 
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(2))}>
-                    <span className="leaderboard__name">ukierunkowanie myślenia tam gdzie chcemy</span>
+                    <span className="leaderboard__name">ukierunkowanie myślenia</span>
                     <span className="leaderboard__value">long</span>
                 </article>
 
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(1))} >
-                    <span className="leaderboard__name">potęga hiperwentylacji i pozytywnego myślenia</span>
-                    <span className="leaderboard__value2">medium</span>
+                    <span className="leaderboard__name">potęga hiperwentylacji</span>
+                    <span className="leaderboard__value3">short</span>
                 </article>
 
                 </div>
@@ -30,7 +30,7 @@ function Sidebar () {
                     
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(3))}>
                     <span className="leaderboard__name">podejście metafizyczne i egzystencjalne</span>
-                    <span className="leaderboard__value3">short</span>
+                    <span className="leaderboard__value2">medium</span>
                 </article>
                 
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(4))}>

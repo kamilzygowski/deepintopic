@@ -26,7 +26,7 @@
 
 .articleText{
     font-size:32px;
-    padding:40px;
+    padding:20px;
     padding-inline: 125px;
     color:$articleColor;
 
@@ -113,5 +113,25 @@
 
 .dictionaryWord{
     color:red;
+}
+
+.scrollUpIcon{
+    position: absolute;
+    left:-250px;
+    bottom: 25px;
+    font-size: 96px;
+    color:#000;
+    opacity:0.75;
+
+    &:hover{
+        color:#FDA7DF;
+        opacity:1;
+    }
+
+    @media (max-width: 1168px) {
+        left:0;
+        right:0;
+        margin: 0 auto;
+    }  
 }
 
