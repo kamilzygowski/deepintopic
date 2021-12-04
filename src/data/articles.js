@@ -35,7 +35,7 @@ export const articles = {
             text: `Przede wszystkim zacznijmy trochę od tematu artykułu. Uściślam się w nim do dwóch sposbów myślenia, tak zwanych 'mindsetów', są to: mindset metafizyczny, gdzie poczucie naszego bytu lokuje się gdzieś na poziomie - niewazne co się stanie i tak będę jednolitym bytem duchowym nawet jak umrę. Drugie podejście jest zaś 'egzystencjalnym' - gdzie bardziej kładziemy nacisk na tu i teraz, oraz na swoje wszystkie objawy somatyczne (boimy się śmierci)`,
             text2:`Podstawowa różnica między tymi podejściami rozbija się najczęściej o ich fundamenty. Podejście egzystencjalne zbudowane jest na strachu i ostrożności (realizm), zaś metafizyczne na pewności siebie/kreatywności i chęci poznania, oraz na (często tymczasowym) braku zainteresowania fizycznym życiem doczesnym.`,
             text3: ``,
-            img1: ``,
+            img1: `https://i.postimg.cc/gjMLZjfk/1-jrf-XJ3erldctsc-P0wqz-Mnw.jpg`,
             img2: ``,
             img3:``,
             id: 3
@@ -43,7 +43,7 @@ export const articles = {
         {
             title: `Omori - PTSD/wyparcie`,
             titleImg:`https://i.postimg.cc/3xk96Rz5/capsule-616x353.jpg`,
-            text: `Krótkie intro: Omori `+<span className="dictionaryWord">jest</span>+` to gra, w której doświadczamy świat jako osoba (jak się wydaje na pierwszy rzut oka) z depresją czy podobnym zaburzeniem. Jako bohater mamy 2 osobowości - prawdziwą i ochronną. Cała akcja rozgrywa się na przemian w świecie prawdziwym, jak i w tak zwanym 'white spacie', które jest swego rodzaju kaftanem ochronnym na mózg, gdzie bohater konserwuje swoje myśli, pragnienia, dzieciństwo, traumy itd. Wszystko to współgra w akompaniamencie cudnej, klimatycznej muzyki, oraz przeplatanką abstrakcyjnych i smutnych scen.`,
+            text: `Krótkie intro: Omori jest to gra, w której doświadczamy świat jako osoba (jak się wydaje na pierwszy rzut oka) z depresją czy podobnym zaburzeniem. Jako bohater mamy 2 osobowości - prawdziwą i ochronną. Cała akcja rozgrywa się na przemian w świecie prawdziwym, jak i w tak zwanym 'white spacie', które jest swego rodzaju kaftanem ochronnym na mózg, gdzie bohater konserwuje swoje myśli, pragnienia, dzieciństwo, traumy itd. Wszystko to współgra w akompaniamencie cudnej, klimatycznej muzyki, oraz przeplatanką abstrakcyjnych i smutnych scen.`,
             text2:` Cała ta składanka tworzy piękny obraz życia pogrążonego w schizofrenicznej samotności i strachu. Gdzie przeżywamy dziecięce historie, które z razu na raz wchodzą w coraz większą psychodelę i na coraz "doroślejsze" tory. Ale to tylko tło, niestety i na szczęście. Głównym zadaniem tytułowego Omoriego, jest znalezienie swojego kochanego przyjaciela Basila, którego po krótkim spotkaniu na początku nikt nie może znaleźć. `,
             text3:``,
             img1: 'https://i.postimg.cc/Y0tvfzSM/Omori-Hero500.png',

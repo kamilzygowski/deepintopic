@@ -7,7 +7,7 @@ class About extends React.Component {
         return (
             <section className="about" id="deepintopic/about">
                <div className="aboutLeftPanel">
-               <h1 className="aboutHeader"> Siemka </h1>
+               <h1 className="aboutHeader"></h1>
                <p className="aboutText"> Witam Cię na czymś w rodzaju bloga z przymrużeniem oka. Tak naprawdę jest to jak to lubię nazywać: śmietnik na moje myśli, rady i coś w rodzaju dziennika.</p>
                </div>
                <div className="aboutRightPanel">

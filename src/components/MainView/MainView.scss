@@ -68,7 +68,7 @@
 }
 
 .inner-border {
-	border: 5px solid #fff;
+	border: 2px solid rgba(0,0,0,0.3);
    	height: 99%;
     width: 98%;
     padding: 11px;
@@ -90,9 +90,9 @@
 }
 
 .articleImg{
-    width:80%;
+    width:70%;
     border-radius: 5px;
-    border:2px groove #000;
+    border:1px groove #000;
     margin: auto auto;
     margin-block:5px;
     position: relative;
