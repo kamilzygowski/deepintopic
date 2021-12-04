@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/deepintopic/static/css/main.48912847.chunk.css",
-    "main.js": "/deepintopic/static/js/main.278ca036.chunk.js",
-    "main.js.map": "/deepintopic/static/js/main.278ca036.chunk.js.map",
+    "main.css": "/deepintopic/static/css/main.3c4aa788.chunk.css",
+    "main.js": "/deepintopic/static/js/main.32a50a07.chunk.js",
+    "main.js.map": "/deepintopic/static/js/main.32a50a07.chunk.js.map",
     "runtime-main.js": "/deepintopic/static/js/runtime-main.a3cd8a1b.js",
     "runtime-main.js.map": "/deepintopic/static/js/runtime-main.a3cd8a1b.js.map",
-    "static/js/2.3a49c299.chunk.js": "/deepintopic/static/js/2.3a49c299.chunk.js",
-    "static/js/2.3a49c299.chunk.js.map": "/deepintopic/static/js/2.3a49c299.chunk.js.map",
+    "static/js/2.991c343c.chunk.js": "/deepintopic/static/js/2.991c343c.chunk.js",
+    "static/js/2.991c343c.chunk.js.map": "/deepintopic/static/js/2.991c343c.chunk.js.map",
     "static/js/3.e4b8b0b7.chunk.js": "/deepintopic/static/js/3.e4b8b0b7.chunk.js",
     "static/js/3.e4b8b0b7.chunk.js.map": "/deepintopic/static/js/3.e4b8b0b7.chunk.js.map",
     "index.html": "/deepintopic/index.html",
-    "static/css/main.48912847.chunk.css.map": "/deepintopic/static/css/main.48912847.chunk.css.map",
-    "static/js/2.3a49c299.chunk.js.LICENSE.txt": "/deepintopic/static/js/2.3a49c299.chunk.js.LICENSE.txt"
+    "static/css/main.3c4aa788.chunk.css.map": "/deepintopic/static/css/main.3c4aa788.chunk.css.map",
+    "static/js/2.991c343c.chunk.js.LICENSE.txt": "/deepintopic/static/js/2.991c343c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3cd8a1b.js",
-    "static/js/2.3a49c299.chunk.js",
-    "static/css/main.48912847.chunk.css",
-    "static/js/main.278ca036.chunk.js"
+    "static/js/2.991c343c.chunk.js",
+    "static/css/main.3c4aa788.chunk.css",
+    "static/js/main.32a50a07.chunk.js"
   ]
 }
