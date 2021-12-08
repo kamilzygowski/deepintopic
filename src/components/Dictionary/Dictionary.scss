@@ -13,6 +13,9 @@
     list-style: none;
     text-align: center;
     margin:25px 0;
+    @media (max-width: 766px) {
+        text-align: left;
+    }  
 }
 
 .title{
@@ -24,4 +27,8 @@
     font-size: 14px;
     margin:0 20px;
     color:#D980FA;
+}
+
+.dictionarylist{
+
 }

@@ -11,7 +11,7 @@ function Dictionary () {
         return (
             <section className="dictionary" id="deepintopic/dictionary">
                 <h1 className="dictionaryHeader">Słowniczek dla skrótów myślowych i niecodziennych wyrażeń</h1>
-                <ul> {listItem} </ul>
+                <ul className="dictionaryList"> {listItem} </ul>
             </section>
 
         );
