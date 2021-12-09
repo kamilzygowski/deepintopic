@@ -9,11 +9,50 @@
 }
 
 .contactLink{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 12px 48px;
+    color: #ffffff;
+    background: linear-gradient(to right, #006266 0, white 10%, #006266 20%);
+    background-position: 0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s infinite linear;
+    animation-fill-mode: forwards;
+    -webkit-text-size-adjust: none;
+    font-weight: 600;
+    font-size: 94px;
     text-decoration: none;
-    color:#F8EFBA;
-
+    white-space: nowrap;
     &:hover{
-        font-size: 78px;
+        font-size: 128px;
         transition: 0.11s step-end;
     }
+}
+
+iframe{
+    display: relative;
+    margin-top: 100px;
+    border:none;
+    height: 650px;
+    //border-radius: 85px;
+    margin-inline: auto;
+    width: 950px;
+    z-index: 0;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+@keyframes shine{
+  0%{
+    background-position: 0
+  }
+  60%{
+    background-position: 180px
+  }
+  100%{
+    background-position: 180px
+  }
 }
