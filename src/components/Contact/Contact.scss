@@ -15,7 +15,7 @@
     transform: translate(-50%,-50%);
     padding: 12px 48px;
     color: #ffffff;
-    background: linear-gradient(to right, #006266 0, white 10%, #006266 20%);
+    background: linear-gradient(to right, #0091aa 0, white 10%, #0091aa 20%);
     background-position: 0;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -30,6 +30,23 @@
         font-size: 128px;
         transition: 0.11s step-end;
     }
+
+    @media (min-width: 768px) and (max-width: 1168px){
+      margin-top: 85px;
+    }
+    @media (max-width: 568px){
+      margin-top: 125px;
+    }
+}
+
+.contactText{
+  margin-top: 205px;
+  padding-inline: 150px;
+  color:rgb(90, 174, 252);
+
+  @media (max-width: 1168px){
+    padding-inline:35px;
+  }
 }
 
 iframe{
@@ -53,6 +70,6 @@ iframe{
     background-position: 180px
   }
   100%{
-    background-position: 180px
+    background-position: 290px
   }
 }

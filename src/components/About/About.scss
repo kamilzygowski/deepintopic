@@ -18,6 +18,7 @@
     flex:2;
     padding-inline: 180px;
     margin: auto auto;
+    color:rgb(116, 252, 177);
 
     @media (max-width:1140px) {
         padding-inline: 15px;
@@ -71,7 +72,8 @@
     width: 156px;
     height: 256px;
     object-fit: cover;
-    border-radius: 25px;
+    border-radius: 45px;
+    padding: 25px;
     @media (max-width: 1168px){
         width: 216px;
         margin: auto auto;

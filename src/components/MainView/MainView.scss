@@ -128,11 +128,14 @@
         opacity:1;
     }
 
-    @media (max-width: 1168px) {
+    @media (min-width: 848px) and (max-width: 1168px) {
         left:0;
         right:0;
         margin: 0 auto;
         font-size: 48px;
     }  
+    @media (max-width: 848px) {
+       display: none;
+    } 
 }
 
