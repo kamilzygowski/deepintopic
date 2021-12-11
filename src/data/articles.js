@@ -64,7 +64,7 @@ export const articles = {
         {
             title:`Sprawy wymagające mózgu`,
             text:`Zacznijmy od poszczególnych pól w mózgu, które będą tutaj najważniejsze. `,
-            text2:``,
+            text2:`Kora przedruchowa - to ta odpowiadająca za "pamięć mięśniową`,
             text3:``,
             text4:``,
             img1: `https://i.postimg.cc/25FGZcK2/d93i8493a.jpg`,
