@@ -1,0 +1,26 @@
+-hipokamp - analizuje nowości i rozdziela między sytuacją znaną a nieznaną (jak jest znana to uruchamia reakcję automatyczną i zmniejsza aktywność)
+-habituacje mózgu - reagowanie na bodźce powtarzalne mniejszą aktywnością mózgową
+-przekroczenie pewnego pułapu kortyzolu powoduje upośledzenie mechanizmu ujemnego sprzężenia zwrotnego (czyli automatycznego tłumienia)
+- w hipokampie mamy dwa typy receptorów GR i MR i te dwa typy receptorów po przekroczeniu pewnego poziomu kortyzolu zaczynają powodować hamowanie hipokampa co powoduje że użytkownik tego hipokampa zaczyna czuć, że zdolność poradzenia sobie z problemem który spowodował ten poziom kortyzolu jest taki wysoki, jest niemożliwa albo bardzo trudna
+- kora boczna ma zdolność też do wyhamowania rekacji stresowej poprzez takie działania jak to, że ktoś z zewnątrz nam pomoże znaleźć rozwiązanie sytuacji itd
+- neurony kortykoliberynowe (CRH) pobudzają pracę całego mózgu ale też pobudzają przysadkę do produkowania hormonu ACTH, który pobudza korę nadnerczy do produkcji i wydzielania kortyzolu
+- ludzie mają różne poziomy wydzielania kortykoliberyny (CRH) - to jest związane z genami. Jak ktoś wydziela jej więcej to poziom kortyzolu jest wyższy i łatwiej przekroczyć ten próg, żeby stres był już patologiczny a nie adaptacyjny
+- kora przyśrodkowa - regulator emocji 
+- gdy układ limbiczny zostaje przyhamowany to jego komunikacja z korą mózgową też zostaje przyhamowana - przez to odbiera to część naszego ja, poprzez to, że odbiera nam kontakt z naszymi emocjami - nie mam na co zwrócić uwagę, nic nie przykuwa mojej uwagi, a więc świadomość jest ograniczona
+- gdy ilość receptorów jest zmniejszona w hipokampie, podwzgórzu, w korze czy gdziekolwiek powoduje, że stres jest trudniejszy do regulacji, bo jest słabszy mechanizm sprzężenia zwrotnego
+- jesli chodzi o receptory MR (mineralo kortykolidowe)- są odpowiedzialne za długofalową kontrolę stresu, gdy ta kontrola jest upośledzona - to kolejne stresory stają się coraz mocniejsze
+- kora boczna przedczołowa - rozumiemy sytuacje dzięki niej i z pomocą hipokampa są przywoływane ślady pamięciowe i dzięki nim możemy przewidywać co się zaraz wydarzy 
+
+- kiedy stres przekracza wartość krytyczną to gorzej działa kora przedczołowa, hipokamp szwankuje, 
+- czasem sprzężenie zwrotne jest za mocne - co może nawet powodować, że jak jakiś system jest nadmiernie pobudzony to może mieć problem z powrotem do punktu wyjścia, bo ten system będzie trwale wyhamowany (bo się włączają jakieś mechanizmy utrwalające, żeby w przyszłości ten układ nie hulał tak mocno)
+
+* jaki jest obraz mózgu osoby cierpiącej na depresję:
+- nadaktywne ciało migdałowate, nadreaktywne podwzgórze (często powodowana nadaktywnym ciałem migdałowatym), ciało migdałowate (odpowiedzialne za automatyczny proces uwagi i reakcje emocjonalne) reaguje za mocno na bodźce awersyjne, ALE nie działa to na bodźce apetytywne (pozytywne) one nie są osłabione 
+- obniżenie działalności hipokampa - więc brak kontroli nad ciałem migdałowatym i podwzgórzem, ale że hipokamp współgra z korą boczną przedczołową (odpowiedzialne za krytyczne, analityczne, unkcje wykonwacze działań) to upośledzenie hipokampu upośledza jednoczenie kore boczną przedczołową. Czyli osoba która ma obniżone działanie hipokampu silniej reaguje nawet na bodźce które już dobrze zna (bo rozpoznaje je jako nowe - hipokamp szwankuje i nie rozgranicza tego). 
+- słabość kory bocznej przedczołowej sprawia, że ona nie ma za bardzo możliwości czuwania nad częściami przyśrodkowymi (dodatkowo ich aktywność jeszcze wzrasta) i pjest problem z kontrolowaniem zachowania. Wtedy ten ktoś jest bardziej obserwatorem swojego działania niż jego wykonawcą
+- boczna kora przedczołowa albo kontroluje system emocjonalny, który przygotowuje automatyczne reakcje, albo może kontrolować prążkowie - czyli wykonywanie czynności 
+- gorsze działanie zakrętu obręczy(który jest arbitrem w sporach między układem emocjonalny albo układ poznawczy) Zakręt obręczy decyduje który układ ma podwyższyć swoją aktywność czy emocjonalny czy poznawczy - głównie w działaniu funkcji przekazującej z bocznej kory przedczołowej do układu limbicznego informacji, efekt jest taki, że osoba ma kłopot nad przejęciem kontroli układu poznawczego nad układem emocjonalnym
+- zaburzenia balansu serotoninowego - może to nawet spowodować, że serotonina będzie dawała odworny efekt
+- zaburzenia systemu dopaminowego - aktywność się obniża, a więc osoba ma problem z nadanie mznaczenia bodźcom apetytywnym. Ktoś ma problem z wykonywaniem czynności bo nie widzi w nich sensu, a więc się wycofuje
+
+** jak jest za dużo serotoniny to człowiek nie dostrzega bodźców przyjemnych **
