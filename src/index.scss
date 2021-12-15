@@ -18,7 +18,15 @@ p{
   font-weight: 800;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  animation: scroll 150s linear infinite;
+  background: url("https://i.postimg.cc/Hnk00vMc/pexels-photo-6275945.jpg"), #111111;
+  background-size: cover;
 }
+
+@keyframes scroll {
+   100%{
+    background-position:0px -3000px;
+  }
+}
+

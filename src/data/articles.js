@@ -26,9 +26,9 @@ export const articles = {
         },
         {
             title: `Ukierunkowany myślenie tam gdzie chcemy`,
-            text: `ło kurwe,`,
-            text2:`jak ten artykuł wyjdzie`,
-            text3:`to buzia będzie otwierana`,
+            text: `ten artykuł pojawi się niedługo`,
+            text2:`proszę o cierpliwość :)`,
+            text3:``,
             text4:``,
             img1: ``,
             img2: ``,
