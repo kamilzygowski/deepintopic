@@ -19,9 +19,16 @@ p{
 }
 
 body {
-  animation: scroll 150s linear infinite;
+  /* This is cotton top-down animation, it's a bit to dynamic for blog reading */
+  /*
+   animation: scroll 150s linear infinite;
   background: url("https://i.postimg.cc/Hnk00vMc/pexels-photo-6275945.jpg"), #111111;
+  background-size: cover;*/
+ 
+  background:url('https://i.postimg.cc/CLjCfWjY/pexels-jv-buenconcejo-2719301.jpg');
+  
   background-size: cover;
+  background-attachment: fixed;
 }
 
 @keyframes scroll {
