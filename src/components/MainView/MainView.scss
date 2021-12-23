@@ -10,21 +10,20 @@
     display: table;
 
     @media (max-width: 540px) {
-        
-        left:0;
+        left: 2px;
+        right: 2px;
         position: relative;
         margin-top: 15px;
-        right:0;
         width: 76vw;
     }
 
     @media (min-width: 541px) and (max-width: 967px) {
-        margin:auto auto;
-        right:35px;
+        margin: auto auto;
+        right: 35px;
     }
 
     @media (min-width: 968px) and (max-width: 1448px) {
-        right:45px;
+        right: 45px;
         margin: auto auto;
     }
 }
