@@ -63,8 +63,8 @@ export const articles = {
         },
         {
             title:`Sprawy wymagające mózgu`,
-            text:`Zacznijmy od poszczególnych pól w mózgu, które będą tutaj najważniejsze. `,
-            text2:`Kora przedruchowa - to ta odpowiadająca za "pamięć mięśniową`,
+            text:`Zacznijmy od poszczególnych pól w mózgu, które będą tutaj najważniejsze. Hipokamp - analizuje nowości i rozdziela między syturacją znaną a nieznaną(jak jest znana to uruchamia reakcję automatyczną i zmniejsza aktywność mózgu). Kora przedruchowa - to ta odpowiadająca za "pamięć mięśniową, kora boczna - ma zdolność do wyhamowania reakcji stresowej i dzięki niej rozumiemy sytuację - z pomocą hipokampu są przywoływane ślady pamięciowe i dzięki nim możemy przewidywać co się zaraz wydarzy.`,
+            text2:``,
             text3:``,
             text4:``,
             img1: `https://i.postimg.cc/25FGZcK2/d93i8493a.jpg`,
