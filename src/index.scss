@@ -1,19 +1,18 @@
-@import './styles/_colors.scss';
+@import "./styles/_colors.scss";
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: $background;
-  color:#fff;
-  font-family: 'Purple Purse', cursive;
+  color: #fff;
+  font-family: "Purple Purse", cursive;
 }
 
-p{
-  font-family: 'Old Standard TT', serif;
+p {
+  font-family: "Old Standard TT", serif;
   font-size: 32px;
   font-weight: 800;
 }
@@ -24,16 +23,21 @@ body {
    animation: scroll 150s linear infinite;
   background: url("https://i.postimg.cc/Hnk00vMc/pexels-photo-6275945.jpg"), #111111;
   background-size: cover;*/
- 
-  background:url('https://i.postimg.cc/CLjCfWjY/pexels-jv-buenconcejo-2719301.jpg');
-  
+
+  background: url("https://i.postimg.cc/CLjCfWjY/pexels-jv-buenconcejo-2719301.jpg");
+
   background-size: cover;
   background-attachment: fixed;
-}
 
-@keyframes scroll {
-   100%{
-    background-position:0px -3000px;
+  @media (min-width: 268px) and (max-width: 848px) {
+    background: url("https://i.postimg.cc/ZqBcDR1z/pionsky.jpg");
+    background-size: cover;
+    background-attachment: fixed;
   }
 }
 
+@keyframes scroll {
+  100% {
+    background-position: 0px -3000px;
+  }
+}

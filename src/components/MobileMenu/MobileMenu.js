@@ -1,5 +1,5 @@
 import React from 'react';
-import { SidebarContainer, Icon, CloseIcon, SidebarWrapper, SidebarMenu, SidebarRoute } from './MobileMenuElements';
+import { SidebarContainer, SidebarWrapper, SidebarMenu, SidebarRoute } from './MobileMenuElements';
 
 
 const MobileMenu = ({isOpen, toggle}) => {

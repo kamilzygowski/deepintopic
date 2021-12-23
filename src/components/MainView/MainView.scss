@@ -1,145 +1,146 @@
-@import '../../styles/colors';
+@import "../../styles/colors";
 
-.mainview{
-    width:65%;
-    position:absolute;
-    right:95px;
+.mainview {
+    width: 65%;
+    position: absolute;
+    right: 95px;
     min-height: 450px;
     border-radius: 10px;
-    background:$articleBackground;
+    background: $articleBackground;
     display: table;
 
-    @media (max-width: 1168px) {
-        width:98%;
-        right:0;
-        margin-top: 15px;
+    @media (max-width: 540px) {
+        
+        left:0;
         position: relative;
-        margin-left: 0.5%;
-        margin:auto auto;
         margin-top: 15px;
-    }  
+        right:0;
+        width: 76vw;
+    }
+
+    @media (min-width: 541px) and (max-width: 967px) {
+        margin:auto auto;
+        right:35px;
+    }
 
     @media (min-width: 968px) and (max-width: 1448px) {
-        right:55px;
-    } 
+        right:45px;
+        margin: auto auto;
+    }
 }
 
-.articleText{
-    font-size:27px;
-    padding:20px;
+.articleText {
+    font-size: 27px;
+    padding: 20px;
     padding-inline: 125px;
-    color:$articleColor;
+    color: $articleColor;
 
     @media (min-width: 268px) and (max-width: 568px) {
-        font-size:18px;
-        padding:15px;
-    }  
+        font-size: 18px;
+        padding: 15px;
+    }
 
     @media (min-width: 968px) and (max-width: 1448px) {
-        
-    } 
+    }
 }
 
-.mainviewTitle{
-    font-size:46px;
-    padding:40px;
-    color:$articleTitle;
+.mainviewTitle {
+    font-size: 46px;
+    padding: 40px;
+    color: $articleTitle;
     //border-bottom:3px solid #686de0;
-    width:80%;
-    margin:auto auto;
+    width: 80%;
+    margin: auto auto;
     margin-bottom: 35px;
     z-index: 5;
 
     @media (min-width: 268px) and (max-width: 568px) {
-        font-size:24px;
-        margin:auto auto;
+        font-size: 24px;
+        margin: auto auto;
         margin-bottom: 35px;
-        padding:15px;
-    }  
+        padding: 15px;
+    }
 
     @media (min-width: 968px) and (max-width: 1448px) {
-        
-    } 
+    }
 }
 
-.arrows{
+.arrows {
     margin: auto auto;
     position: relative;
 }
 
 .inner-border {
-	border: 2px solid rgba(0,0,0,0.3);
-   	height: 99%;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    height: 99%;
     width: 98%;
     padding: 11px;
     margin: auto auto;
     border-radius: 10px;
-    background:$articleBackground;
+    background: $articleBackground;
 }
 
 .vertical-decoration {
-
     @media (max-width: 1168px) {
-        width:100%;
-        
-    }  
+        width: 84vw;
+        padding: 4px;
+    }
 
     @media (min-width: 968px) and (max-width: 1448px) {
-        width:100%;
-    } 
+        width: 100%;
+    }
 }
 
-.articleImg{
-    width:70%;
+.articleImg {
+    width: 70%;
     border-radius: 5px;
-    border:1px groove #000;
+    border: 1px groove #000;
     margin: auto auto;
-    margin-block:5px;
+    margin-block: 5px;
     position: relative;
 }
 
-.articleTitleImg{
+.articleTitleImg {
     position: absolute;
     z-index: 0;
-    width:316px;
-    height:216px;
+    width: 316px;
+    height: 216px;
     border-radius: 85%;
-    
+
     text-align: center;
-    left:10px;
-    
+    left: 10px;
+
     margin-top: 96px;
 }
 
-.dictionaryWord{
-    color:red;
+.dictionaryWord {
+    color: red;
 }
 
-.scrollUpIcon{
+.scrollUpIcon {
     position: absolute;
-    left:-250px;
+    left: -250px;
     bottom: 25px;
     font-size: 96px;
-    color:#000;
-    opacity:0.75;
+    color: #000;
+    opacity: 0.75;
 
-    &:hover{
-        color:#FDA7DF;
-        opacity:1;
+    &:hover {
+        color: #fda7df;
+        opacity: 1;
     }
 
     @media (min-width: 848px) and (max-width: 1168px) {
-        left:0;
-        right:0;
+        left: 0;
+        right: 0;
         margin: 0 auto;
         font-size: 48px;
-    }  
+    }
     @media (max-width: 848px) {
-       display: none;
-    } 
+        display: none;
+    }
 }
 
 .red {
-    color:red;
+    color: red;
 }
-

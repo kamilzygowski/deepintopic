@@ -7,7 +7,7 @@ class About extends React.Component {
         return (
             <section className="about" id="deepintopic/about">
                <div className="aboutLeftPanel">
-               <h1 className="aboutHeader"></h1>
+               {/*<h1 className="aboutHeader"></h1>*/}
                <p className="aboutText1"> Deep in topic to projekt stworzony w głównej mierze, aby poprawiać jakość psychicznego życia czytelników, ale ma też funkcję naukową i rozweselającą</p>
                </div>
                <div className="aboutRightPanel">
@@ -15,20 +15,20 @@ class About extends React.Component {
                    <div className="aboutMinibox">
                    
                         <p className="aboutText"> Rozprawiamy tutaj o filozofii</p>
-                        <img className="aboutImage" src="https://i.postimg.cc/zvKqqY6b/pexels-dominika-roseclay-1244705.jpg"></img>
+                        <img className="aboutImage" alt='img' src="https://i.postimg.cc/zvKqqY6b/pexels-dominika-roseclay-1244705.jpg"></img>
                         <p className="aboutText"> wszelkiej filozofii </p>
                         
                    </div>
                    <div className="aboutMinibox">
                         
                         <p className="aboutText">  o psychologii</p>
-                        <img className="aboutImage" src="https://i.postimg.cc/bNfz3dSQ/pexels-vijay-sadasivuni-3833370.jpg"></img>
+                        <img className="aboutImage" alt='img' src="https://i.postimg.cc/bNfz3dSQ/pexels-vijay-sadasivuni-3833370.jpg"></img>
                         <p className="aboutText">  klinicznej / poznawczej</p>
                    </div>
                    <div className="aboutMinibox">
                    
                         <p className="aboutText"> o wszystkim</p>
-                        <img className="aboutImage" src="https://i.postimg.cc/J0ZkDnGR/pexels-capped-x-9695480.jpg"></img>
+                        <img className="aboutImage" alt='img' src="https://i.postimg.cc/J0ZkDnGR/pexels-capped-x-9695480.jpg"></img>
                         <p className="aboutText"> i o niczym</p>
                         
                    </div>
