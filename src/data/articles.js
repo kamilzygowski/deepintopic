@@ -96,6 +96,18 @@ export const articles = {
             img3:``,
             img4:``,
             id:7
+        },
+        {
+            title:`Wprowadzenie do świadomego śnienia`,
+            text:`Świadome śnienie jest kolejnym tematem, który będziemy wałkować jak wariaci na tym blogu. No i jak przystało na wprowadzenie, warto czytelnika wprowadzić w podstawy. Ogółem mówiąc - świadome śnienie jest to stan, w którym oszukujemy swój mózg podczas snu, co prowadzi do takiego stanu, że możemy sterować swoim snem. Daje nam to prawie bezgraniczne możliwości kierowania naszej uwagi na różne rzeczy jakie wpadną nam do głowy i (co najlepsze) zyskujemy możliwość przeżywania wszystkich rzeczy jakie sobie wymyślimy. Termin oszukujemy swój mózg został użyty nieprzypadkowo - otóż jest to prawda, w świadomym śnie nasze wszystkie zmysły i percepcja działają dokładnie tak samo (a przynajmniej interpretujemy je tak samo) jak w rzeczywistości. A więc możemy latać po niebie czując pęd wiatru w naszych włosach, czując każdy głęboki oddech.`,
+            text2:`No ale od czego zacząć? Niestety świadomy sen nie jest stanem naturalnym dla naszej świadomości i trzeba się go nauczyć, a raczej wyuczyć swoje ciało sposobów, które ułatwiają uświadomienie się we śnie. Żeby wejść w ten stan wystarczy po prsotu zdać sobie sprawę, że śnimy będąc we śnie, co nie jest takie proste... We śnie nasza świadomość "tu i teraz" jest prawie całkowicie uśpiona, a więc trzeba się jakoś wspomóc, a konkretnie jak nie możemy liczyć na mózg to liczmy na swoje ciało! Jeżeli nosisz zegarek, robisz każdego dnia jakąś powtarzalną rzecz typu: zawsze nosisz przy sobie długopis w kieszeni, to możesz łatwo wykorzytsać taki fakt. Śpiąc nasz móz ma problemy z idealnym odwzorowaniem takich szczegółów jak waga przedmiotów, nie wspominając nawet o odwzorowaniu chodzenia zegarka. Dlatego mając taką unikalną czynność w zanadrzu musimy się nauczyć ją dobrze wykorzystywać. Kluczem jest to aby powtarzać te czynności w konkretny sposób, aby wymusić na naszym ciele powstanie nawyku (jedni mówią, że wsytarczą dwa tygodnie na powstanie nawyku, inni mówią o miesiącu).`,
+            text3:`Opiszę cały proces nawykowy i czemu on jest taki ważny na przykładzie zegarka. Nosimy każdego dnia zegarek, sprawdzając godzinę te pary razy dziennie samoistnie wytwarzamy nawyk po prostu patrzenia na ten zegarek. Nawyk wykorzystywany jest przez nas już podczas snu, bo się on naturalnie uaktywnia i śpiąc mamy odruch spojrzenia na zegarek, a jak się wcześniej dowiedzieliśmy niektóre rzeczy we śnie nie działają tak samo jak w realnym życiu ;). Więc dzięki temu, że spojrzymy na zegarek śpiąc mając taki nawyk, że patrzymy się na niego pare sekund, zobaczymy we śnie jak wskazówki albo chaotycznie latają albo w ogóle się nie ruszają - a to powinno dać nam sygnał, że właśnie znajdujemy się we śnie! Analogicznie w stosunku noszenia na przykład długopisu w kieszeni - mając nawyk wyjmowania go i nawet lekkiego podrzucania sobie daje nam to, że nasze ciało zna jego wagę, materiał z jakiego jest zrobiony - a gdy nagle długopis jest zbyt ciężki albo jakiś taki zbyt miękki to już coś nam się powinno zapalić w głowie.`,
+            text4:`Wiemy od czego zacząć, wiemy czego się uczyć, a to jest najważniejsze. Jeżeli chcesz wejść trochę głębiej w ten temat, zapraszam do artykułu "świadome śnienie dla każdego"`,
+            img1: `https://i.postimg.cc/xT7vqyWG/lucid-dreams.jpg`,
+            img2: `https://i.postimg.cc/pTVLY4gw/pexels-lisa-fotios-705868-2-1.jpg`,
+            img3:``,
+            img4:``,
+            id:8
         }
     ]
 }

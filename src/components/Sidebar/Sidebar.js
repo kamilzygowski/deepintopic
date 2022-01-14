@@ -40,7 +40,7 @@ function Sidebar () {
 
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(5))}>
                     <span className="leaderboard__name">Sprawy wymagające mózgu</span>
-                    <span className="leaderboard__value">long</span>
+                    <span className="leaderboard__value2">medium</span>
                 </article>
 
                 </div>
@@ -52,6 +52,11 @@ function Sidebar () {
 
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(7))}>
                     <span className="leaderboard__name">Jak powstaje lęk</span>
+                    <span className="leaderboard__value">long</span>
+                </article>
+
+                <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(8))}>
+                    <span className="leaderboard__name">Wprowadzenie do świadomego śnienia</span>
                     <span className="leaderboard__value">long</span>
                 </article>
                 </div>
