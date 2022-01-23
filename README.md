@@ -1,6 +1,5 @@
 # Deep in topic
 
----
 Deep in topic is an app made with ReactJS, Redux and NodeJS on server side
 
 ## What is deepintopic?
