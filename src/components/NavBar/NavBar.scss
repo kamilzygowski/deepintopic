@@ -1,105 +1,101 @@
-@import '../../styles/colors';
+@import "../../styles/colors";
 
-nav{
+nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
     min-height: 196px;
-    background: rgba(0,0,0,0.2);
-    color:#fff;
+    background: rgba(0, 0, 0, 0.2);
+    color: #fff;
 
     @media (min-width: 268px) and (max-width: 568px) {
         margin-bottom: 25px;
-    }  
+    }
 
-    
     @media (min-width: 568px) and (max-width: 848px) {
         display: flex;
         flex-direction: row;
         margin-bottom: 25px;
-    } 
+    }
 }
 
-.navLinks{
-    width:60%;
+.navLinks {
+    width: 60%;
     display: flex;
     justify-content: space-around;
     align-items: center;
     list-style: none;
-    font-size:34px;
-    color:#fff;
+    font-size: 34px;
+    color: #fff;
     margin: auto 0;
     margin-left: 255px;
-    
 
     @media (min-width: 268px) and (max-width: 568px) {
         display: none;
-    }  
+    }
 
     @media (min-width: 568px) and (max-width: 848px) {
         display: none;
-    } 
+    }
 }
 
-.link{
+.link {
     text-decoration: none;
-    //background-color: rgba(255, 94, 152, 0.6587); 
+    //background-color: rgba(255, 94, 152, 0.6587);
     background-color: rgba(0, 45, 97, 0.259);
-    border:2px solid rgba(0,0,0,0.39);
+    border: 2px solid rgba(0, 0, 0, 0.39);
     border-radius: 35px;
-    padding:12.5px;
-    box-shadow: 0  5px 0 5px  rgba(0, 45,97, 0.4587);
-    
+    padding: 12.5px;
+    box-shadow: 0 5px 0 5px rgba(0, 45, 97, 0.4587);
+
     @media (min-width: 268px) and (max-width: 568px) {
         display: none;
-    }  
+    }
 
     @media (min-width: 568px) and (max-width: 848px) {
-        
-    } 
+    }
 }
 
-.link:hover{
-    color:#706fd3;
+.link:hover {
+    color: #706fd3;
     transition: 0.155s cubic-bezier(0.77, 0, 0.175, 1);
-    box-shadow: 0  0 0 5px  #706fd3;
-    background-color: rgba(0, 0, 0, 0.6587); 
+    box-shadow: 0 0 0 5px #706fd3;
+    background-color: rgba(0, 0, 0, 0.6587);
 }
 
-.logo{
-    width:340px;
+.logo {
+    width: 340px;
     position: absolute;
-    left:85px;
-    top:0;
+    left: 85px;
+    top: 0;
 
     @media (min-width: 268px) and (max-width: 568px) {
         margin: auto auto;
-        left:0;
-        width:315px;
-    }  
+        left: 0;
+        width: 315px;
+    }
 
     @media (min-width: 568px) and (max-width: 848px) {
         margin: auto auto;
-        width:370px;
-    } 
+        width: 370px;
+    }
 }
 
-.faBars{
+.faBars {
     border-radius: 5px;
     font-size: 32px;
     display: none;
-    background: rgba(0,0,0,0.5);
+    background: rgba(0, 0, 0, 0.5);
 
-    @media screen and (max-width: 768px){
+    @media screen and (max-width: 768px) {
         display: block;
         position: absolute;
-        top:0;
-        right:0;
+        top: 0;
+        right: 0;
         transform: translate(-100%, 60%);
         font-size: 28px;
         cursor: pointer;
         color: #fff;
-        margin-top:-6px;
-        
+        margin-top: -6px;
     }
 }

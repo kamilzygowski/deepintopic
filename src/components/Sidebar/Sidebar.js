@@ -45,10 +45,10 @@ function Sidebar () {
 
                 </div>
                 <div className="row">
-                <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(6))}>
+                {/*<article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(6))}>
                     <span className="leaderboard__name">Żyj długo i twórczo</span>
                     <span className="leaderboard__value">long</span>
-                </article>
+                </article>*/}
 
                 <article className="leaderboard__profile" onClick={() => dispatch(chooseArticle(7))}>
                     <span className="leaderboard__name">Jak powstaje lęk</span>

@@ -1,89 +1,88 @@
-.about{
+.about {
     width: 80%;
-    height:80%;
-    padding:50px;
+    height: 80%;
+    padding: 50px;
     margin: auto auto;
     display: flex;
     flex-direction: column;
 }
 
-.aboutHeader{
+.aboutHeader {
     font-size: 42px;
 }
 
-.aboutText1{
-    font-size:32px;
-    flex:2;
+.aboutText1 {
+    font-size: 32px;
+    flex: 2;
     padding-inline: 180px;
     margin: auto auto;
-    color:rgb(167, 252, 118);
+    color: rgb(167, 252, 118);
     border-radius: 45px;
 
-    @media (max-width:1140px) {
+    @media (max-width: 1140px) {
         padding-inline: 15px;
     }
 }
 
-.aboutText{
-    font-size:32px;
-    flex:2;
+.aboutText {
+    font-size: 32px;
+    flex: 2;
     margin: auto auto;
 }
 
-.aboutBox{
+.aboutBox {
     flex-direction: column;
     display: flex;
     margin-top: 55px;
     margin-bottom: 35px;
 }
 
-.aboutMinibox{
+.aboutMinibox {
     flex-direction: row;
     display: flex;
     border-radius: 25px;
     margin: 10px 0;
-    color:#fff;
-    padding:15px;
+    color: #fff;
+    padding: 15px;
 
-    @media (max-width: 749px){
+    @media (max-width: 749px) {
         flex-direction: column;
-      }
-      
-      @media (min-width:750px) and (max-width: 1168px) {
+    }
+
+    @media (min-width: 750px) and (max-width: 1168px) {
         flex-direction: column;
-    } 
+    }
 }
 
-.aboutMinibox:nth-child(1){
-    background-color: rgba(148, 151, 212, 0.1); 
+.aboutMinibox:nth-child(1) {
+    background-color: rgba(148, 151, 212, 0.1);
 }
 
-.aboutMinibox:nth-child(2){
-    background-color: rgba(200, 235, 87, 0.1); 
+.aboutMinibox:nth-child(2) {
+    background-color: rgba(200, 235, 87, 0.1);
 }
 
-.aboutMinibox:nth-child(3){
-    background-color: rgba(220, 108, 212, 0.1); 
+.aboutMinibox:nth-child(3) {
+    background-color: rgba(220, 108, 212, 0.1);
 }
 
-.aboutImage{
-    flex:1;
+.aboutImage {
+    flex: 1;
     width: 156px;
     height: 256px;
     object-fit: cover;
     border-radius: 45px;
     padding: 25px;
-    @media (max-width: 1168px){
+    @media (max-width: 1168px) {
         width: 216px;
         margin: auto auto;
-      }
-
+    }
 }
 
-.aboutLeftPanel{
-    flex:1;
+.aboutLeftPanel {
+    flex: 1;
 }
 
-.aboutRightPanel{
-    flex:3;
+.aboutRightPanel {
+    flex: 3;
 }

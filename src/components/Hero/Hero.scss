@@ -1,37 +1,37 @@
-.hero{
+.hero {
     display: flex;
     flex-direction: row;
     margin-bottom: 50px;
 
     @media (min-width: 268px) and (max-width: 568px) {
         display: none;
-    }  
+    }
 
     @media (min-width: 568px) and (max-width: 848px) {
         font-size: 36px;
         display: none;
-    } 
+    }
 }
 
-.heroHeader{
+.heroHeader {
     font-size: 22px;
     position: absolute;
-    left:70px;
+    left: 70px;
 }
 
-.heroText{
+.heroText {
     font-size: 36px;
 }
 
-.heroText2{
-    font-size:32px;
+.heroText2 {
+    font-size: 32px;
     flex-wrap: wrap;
 }
 
-.leftPanel{
-    flex:1;
+.leftPanel {
+    flex: 1;
 }
 
-.rightPanel{
-    flex:3;
+.rightPanel {
+    flex: 3;
 }

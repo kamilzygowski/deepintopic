@@ -1,39 +1,38 @@
-.dictionary{
-    margin-top:85px;
-    background:rgba(0,0,0,0.55);
+.dictionary {
+    margin-top: 85px;
+    background: rgba(0, 0, 0, 0.55);
     border-radius: 15px;
-    width:90%;
-    padding:15px;
+    width: 90%;
+    padding: 15px;
     margin-inline: auto;
 }
 
-.dictionaryHeader{
+.dictionaryHeader {
     font-size: 30px;
     margin-bottom: 65px;
-    color:#95faab;
+    color: #95faab;
 }
 
-.dictionaryDef{
+.dictionaryDef {
     font-size: 27px;
     list-style: none;
     text-align: center;
-    margin:25px 0;
+    margin: 25px 0;
     @media (max-width: 766px) {
         text-align: left;
-    }  
+    }
 }
 
-.title{
-    color:rgb(117, 236, 216);
+.title {
+    color: rgb(117, 236, 216);
     font-weight: 700;
 }
 
-.circle{
+.circle {
     font-size: 14px;
-    margin:0 20px;
-    color:#00b6b6;
+    margin: 0 20px;
+    color: #00b6b6;
 }
 
-.dictionarylist{
-
+.dictionarylist {
 }
