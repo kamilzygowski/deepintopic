@@ -73,7 +73,7 @@ export const articles = {
             img4:``,
             id:5
         },
-        /*{
+        {
             title:`Żyj długo i twórczo`,
             text:`Taki tytuł ma książka jednego z moich ulubionych neurologów, a mianowicie profesora Jerzego Vetulaniego. Ale ja tutaj nie o tym. Dziś porozmawiamy sobie torszkę o pasji, no i troszkę też o motywacji.`,
             text2:`Będąc niczym w końcu po czasie, zostajemy zesłani tutaj, na ziemię. Budzimy się, nie kumamy nic oprócz "czegoś" co nas dziwnie irytuje ale i intryguje. Tak, chodzi o otoczenie, powietrze, dźwięk, zapach, po prostu każdy nasz niewykształcony zmysł szaleje. Teraz żmudne lata nauki, tak idzie, rok, drugi. Będąc ciągle gdzieś zawieszonym między powinnością, a niewiedzą błądzimy starając się z całych sił pojąc ten zewnętrzny byt. Czasem jest fajnie, cieszymy się chwilą, czasem jest dziwnie i tak chłodno w brzuchu, no ale idziesz dalej. Tym sposobem przechodzimy przez okresy krytyczne, uczymy się, czasem degradujemy nasz mózg, ale i tak powinniśmy wiedzowo wychodzić na plus. `,
@@ -84,7 +84,7 @@ export const articles = {
             img3:``,
             img4:``,
             id:6
-        },*/
+        },
         {
             title:`Jak powstaje lęk`,
             text:`Na początek zacznijmy od podstawowej różnicy między lękiem i strachem z punktu widzenia neurobiologii. Ogólnie to strach i lęk są na pierwszym etapie tym samym - ciało migdałowate produkuje stan nacechowany negatywnie. Nie jest to ani strach ani lęk jeszcze na tym poziomie, dopóki ten stan nie dojdzie do kory bocznej przedczołowej. W korze dochodzi do jawnego rozpoznania sytuacji i wtedy właśnie rozróżnia się strach od lęku - strach jest reakcją na coś co faktycznie w tej chwili nam zagraża (i wzbudza w nas te podstawowe reakcje czyli walcz/uciekaj), a lęk jest czymś wtórnym co powstaje pod wpływem bodźca skojarzonego ze strachem i lęk nie jest czymś co jest realnym zagrożeniem, a bardziej możemy go określić jako przeczuwanie, że coś złego się stanie.`,
